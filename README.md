@@ -2,7 +2,7 @@
 
 Udemy
 
-## Terminal
+## Git
 
   * Colocar o arquivo README.ms na pasta
   * git init
@@ -11,6 +11,9 @@ Udemy
   * git branch -M main
   * git remote add origin git@github.com:davidween/projetoLBD.git (SSH)
   * git push -u origin main
+
+
+## .NET
 
   * dotnet new console --name aula_01 --output Basics
 
