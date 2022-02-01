@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace aula_01
+namespace AULA_01
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá Mundo!");
+            Console.WriteLine("Hello World!");
         }
     }
 }

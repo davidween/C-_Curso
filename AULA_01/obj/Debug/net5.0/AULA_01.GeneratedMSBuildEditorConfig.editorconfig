@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = aula_01
-build_property.ProjectDir = /home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/Basics/
+build_property.RootNamespace = AULA_01
+build_property.ProjectDir = /home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/Basics/aula_01.csproj",
-      "projectName": "aula_01",
-      "projectPath": "/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/Basics/aula_01.csproj",
+      "projectUniqueName": "/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/AULA_01.csproj",
+      "projectName": "AULA_01",
+      "projectPath": "/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/AULA_01.csproj",
       "packagesPath": "/home/m-david/.nuget/packages/",
-      "outputPath": "/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/Basics/obj/",
+      "outputPath": "/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/m-david/.nuget/NuGet/NuGet.Config"

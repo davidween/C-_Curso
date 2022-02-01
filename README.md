@@ -15,7 +15,12 @@ Udemy
 
 ## .NET
 
-  * dotnet new console --name aula_01 --output Basics
+  * dotnet new console --name AULA_01
+  * cd AULA_01
+  * dotnet build
+  * dotnet run
+  
+  * dotnet clean
 
 ## Learn more
 

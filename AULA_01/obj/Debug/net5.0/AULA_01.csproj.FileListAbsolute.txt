@@ -1,0 +1,16 @@
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/bin/Debug/net5.0/AULA_01
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/bin/Debug/net5.0/AULA_01.deps.json
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/bin/Debug/net5.0/AULA_01.runtimeconfig.json
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/bin/Debug/net5.0/AULA_01.runtimeconfig.dev.json
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/bin/Debug/net5.0/AULA_01.dll
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/bin/Debug/net5.0/ref/AULA_01.dll
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/bin/Debug/net5.0/AULA_01.pdb
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/obj/Debug/net5.0/AULA_01.csproj.AssemblyReference.cache
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/obj/Debug/net5.0/AULA_01.GeneratedMSBuildEditorConfig.editorconfig
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/obj/Debug/net5.0/AULA_01.AssemblyInfoInputs.cache
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/obj/Debug/net5.0/AULA_01.AssemblyInfo.cs
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/obj/Debug/net5.0/AULA_01.csproj.CoreCompileInputs.cache
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/obj/Debug/net5.0/AULA_01.dll
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/obj/Debug/net5.0/ref/AULA_01.dll
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/obj/Debug/net5.0/AULA_01.pdb
+/home/m-david/Downloads/7° Semestre/UDEMY/C# Curso/AULA_01/obj/Debug/net5.0/AULA_01.genruntimeconfig.cache
